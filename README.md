@@ -1,171 +1,152 @@
-## Hi there 👋
-
-<!--
-**ganeshsargar/ganeshsargar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-# 👋 Hi, I'm Ganesh Sargar
+# <h1 align="center">Hi 👋, I'm Ganesh Sargar</h1>
 
 <h3 align="center">
-Full Stack Developer | Java Developer | MERN Stack | AI & ML Enthusiast
+🚀 Full Stack Developer | MERN Stack | Java & Spring Boot | AI/ML Enthusiast
 </h3>
 
 <p align="center">
-I love building scalable web applications, solving real-world problems, and learning new technologies every day.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Enthusiast;AI+%26+Machine+Learning+Learner;Always+Learning+Something+New"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ganeshsargar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/ganeshsargar?label=Followers&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎓 MCA Student
-- 🏆 Ranked **1st in every semester** during BCS
-- 💻 MERN Stack Developer
-- ☕ Java & Spring Boot Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 📚 DSA Learner
-- 🌱 Currently learning **Spring Boot, System Design & AI**
-- ⚡ Passionate about solving real-world problems with technology
+💻 Passionate Full Stack Developer focused on building scalable and real-world applications.
 
----
+🎓 MCA Student
 
-## 🌟 Featured Projects
+🏆 Ranked **1st in every semester** during B.Sc. Computer Science.
 
-### 🌾 FarmerHub
+🥇 Winner of **State Level Coding Competition (2024 & 2025)**.
 
-A platform connecting farmers with agricultural workers while providing a digital ecosystem for agriculture.
+💼 Backend Developer Intern.
 
-**Tech Stack**
+📄 International Research Paper Presenter.
 
-- React
-- Node.js
-- Express
-- MongoDB
-- JWT
+🤖 Passionate about AI, Machine Learning, System Design and Cloud Computing.
 
 ---
 
-### 💰 Explainable AI-Based Anti-Money Laundering
+# 📊 GitHub Statistics
 
-AI-powered transaction monitoring system using Machine Learning, Graph Analytics and Explainable AI.
+<p align="center">
 
-**Tech Stack**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ganeshsargar&show_icons=true&theme=tokyonight"/>
 
-- React
-- Node.js
-- Python
-- ML
-- Graph Analytics
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshsargar&layout=compact&theme=tokyonight"/>
 
----
+</p>
 
-### 🌦 Weather App
-
-Responsive Weather Application using React and OpenWeather API.
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshsargar&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshsargar&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/ganesh-sargar">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/ganeshsargar">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="http://ganeshsargar.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:ganeshysargar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ganeshsargar/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,mysql"/>
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
-![Material UI](https://img.shields.io/badge/Material_UI-blue?style=for-the-badge&logo=mui)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+</p>
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb"/>
+</p>
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 Achievements
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+🏅 First Rank in all semesters of B.Sc. Computer Science
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+🥇 Winner – State Level Coding Competition (2024)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+🥇 Winner – State Level Coding Competition (2025)
 
----
+📄 Presented Research Paper at an International Conference
 
-## 🏆 GitHub Trophies
+💼 Backend Developer Intern
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+🚀 Developed Multiple Full Stack Applications
 
 ---
 
-## 🏅 Achievements
+# 💡 Quote
 
-- 🥇 First Rank in BCS (All Semesters)
-- 🥇 Winner - State Level Coding Competition (2024 & 2025)
-- 📄 International Research Paper Presenter
-- 💼 Backend Developer Intern
-- 🚀 Built Multiple Full Stack Projects
+> **"Code with purpose. Learn continuously. Build solutions that create real-world impact."**
 
 ---
 
-## 🌐 Connect With Me
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+### ⭐ Thanks for visiting my profile!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
+If you like my work, consider ⭐ starring my repositories.
 
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+**Happy Coding! 🚀**
 
----
-
-## 💡 Quote
-
-> **"I don't just write code—I build solutions that create real-world impact."**
-
----
-
-⭐ Thanks for visiting my profile! If you like my work, don't forget to ⭐ my repositories.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
